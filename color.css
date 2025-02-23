@@ -1,9 +1,0 @@
-
-.header{
-    min-height: 100vh;
-    width: 100%;
-    background-image: linear-gradient(#30aaa0),url(google.jpeg);
-    background-position: center;
-    background-size: cover;
-    position: relative;
-}
